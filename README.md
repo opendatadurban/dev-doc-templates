@@ -1,4 +1,4 @@
-# 🚀 Project Name
+# Project Name
 
 A short summary of what this project does, who it's for, and the problem it solves.
 > Example: A frontend dashboard for internal developer tools that interacts with our well-documented API.
