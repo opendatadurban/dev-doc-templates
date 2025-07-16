@@ -7,7 +7,7 @@
 
 ---
 
-## 🚀 New Features  
+## New Features  
 - **[Feature Name]**: [Description of the feature and its benefits]. [🔗 Learn more](link-to-docs)  
 - **[Feature Name]**: [Description of the feature and its benefits]. [🔗 Learn more](link-to-docs)  
 
@@ -15,21 +15,21 @@
 - **Fixed**: [Brief description of the issue] (Thanks [@developer] for the fix!).  
 - **Fixed**: [Brief description of the issue] (Related to [GitHub Issue #XYZ]).  
 
-## ⚠️ Known Issues  
+## Known Issues  
 - **[Issue]**: [Description]. *Expected resolution: [Timeline/Version]*.  
 - **[Issue]**: [Description]. *Workaround: [If applicable]*.  
 
 ---
 
-## 🔄 Upgrade Instructions  
+## Upgrade Instructions  
 1. [Step 1: e.g., Backup your data].  
 2. [Step 2: e.g., Run `npm update` or download the latest installer].  
-3. [Step 3: e.g., Restart the service].  
-📖 [Detailed upgrade guide](link-to-upgrade-docs)  
+3. [Step 3: e.g., Restart the service].
+ [Detailed upgrade guide](link-to-upgrade-docs)  
 
 ---
 
-## 📣 Feedback  
+## Feedback  
 We’d love to hear from you! Report issues or suggest improvements via:  
 - [GitHub Issues](link)  
 - [Support Email](mailto:)  
@@ -37,7 +37,14 @@ We’d love to hear from you! Report issues or suggest improvements via:
 
 ---
 
-## 📌 Additional Resources  
+---
+
+## Contributors  
+List all contributors of the release 
+
+---
+
+## Additional Resources  
 - [Documentation](link)  
 - [API Changelog](link)  
 - [Troubleshooting Guide](link)  
