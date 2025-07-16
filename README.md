@@ -5,8 +5,8 @@ A short summary of what this project does, who it's for, and the problem it solv
 
 ## 📚 Table of Contents
 
-- [Tech Stack](#🚀-tech-stack)
-- [Getting Started](#🛠️-getting-started)
+- [Tech Stack](#tech-stack)
+- [Getting Started](#getting-started)
 - [Configuration](#configuration)
 - [API Reference/ Backend](#api-reference)
 - [Folder Structure](#folder-structure)
@@ -67,7 +67,7 @@ npm run build
 
 ## 🔌 Backend Integration
 The backend is hosted separately and can be found at:
-👉 https://github.com/opendatadurban/repo-
+[insert backend link here]
 
 or 
 
