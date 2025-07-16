@@ -13,7 +13,6 @@ A short summary of what this project does, who it's for, and the problem it solv
 - [API Documentation](#api-documentation)
 - [Folder Structure](#folder-structure)
 - [Contributing](#contributing)
-- [Contact](#contact)
 
 ---
 
@@ -88,7 +87,7 @@ ACCESS_TOKEN_EXPIRE_MINUTES
 ## 🐋 Running with Docker
 Build and Start the Stack
 ``` bash
-docker-compose up --build
+docker compose up --build
 ```
 Or using the provided script:
 
